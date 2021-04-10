@@ -38,3 +38,4 @@
     }
     global.$ajaxUtils = ajaxUtils;
 })(window);
+
